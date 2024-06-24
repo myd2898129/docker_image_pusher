@@ -1,19 +1,10 @@
-name: Scheduled Workflow
 
-on:
-  schedule:
-    - cron: '30 11 * * *'  # 每天UTC时间00:00执行，你可以根据需求修改cron表达式
-
-jobs:
-  job1:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
 name: Docker
 
 on:
-  workflow_dispatch:
+  #workflow_dispatch:
+  schedule:
+    - cron: '36 11 * * *'  # 每天UTC时间00:00执行定时触发器
   push:
     branches: [ main ]
 
