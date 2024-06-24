@@ -1,1 +1,4 @@
 traefik:latest
+linuxserver/heimdall:latest
+linuxserver/jellyfin:latest
+filebrowser/filebrowser:latest
