@@ -1,6 +1,8 @@
 name: Docker
 
 on:
+  schedule:
+    - cron: '0 13 * * *'  # 每天的 13:00 UTC 执行
   
   workflow_dispatch:
   
