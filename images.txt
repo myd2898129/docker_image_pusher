@@ -4,4 +4,4 @@ linuxserver/jellyfin:latest
 filebrowser/filebrowser:latest
 johngong/baidunetdisk:latest
 cnk3x/xunlei:latest
-filerun/filerun:latest
+filerun/filerun:8.1
