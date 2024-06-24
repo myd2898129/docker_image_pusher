@@ -2,11 +2,9 @@
 name: Docker
 
 on:
-  #workflow_dispatch:
-  schedule:
-    - cron: '39 11 * * *'  # 每天UTC时间00:00执行定时触发器
-  #push:
-    #branches: [ main ]
+  workflow_dispatch:
+  push:
+    branches: [ main ]
 
 
 env:
