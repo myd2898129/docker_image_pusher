@@ -4,7 +4,7 @@ name: Docker
 on:
   #workflow_dispatch:
   schedule:
-    - cron: '38 11 * * *'  # 每天UTC时间00:00执行定时触发器
+    - cron: '39 11 * * *'  # 每天UTC时间00:00执行定时触发器
   #push:
     #branches: [ main ]
 
