@@ -1,9 +1,9 @@
-name: Daily Scheduled Workflow
+name: Docker
 
 on:
-  schedule:
-    - cron: '43 11 * * *'  # 每天UTC时间00:00触发
-
+  workflow_dispatch:
+  push:
+    branches: [ main ]
 
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
