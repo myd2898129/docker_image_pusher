@@ -2,3 +2,5 @@ traefik:latest
 linuxserver/heimdall:latest
 linuxserver/jellyfin:latest
 filebrowser/filebrowser:latest
+johngong/baidunetdisk:latest
+cnk3x/xunlei:latest
