@@ -5,3 +5,4 @@ filebrowser/filebrowser:latest
 johngong/baidunetdisk:latest
 cnk3x/xunlei:latest
 onething1/wxedge:latest
+portainer/portainer-ce
