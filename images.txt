@@ -1,8 +1,8 @@
 traefik:latest
-linuxserver/heimdall
-linuxserver/jellyfin
+linuxserver/heimdall:latest
+linuxserver/jellyfin:latest
 filebrowser/filebrowser
 cnk3x/xunlei
 johngong/baidunetdisk
 portainer/portainer-ce
-onething/wxedge
+onething1/wxedge
