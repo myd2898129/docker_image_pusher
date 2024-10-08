@@ -1,5 +1,5 @@
 traefik:latest
-linuxserver/Heimdall
+linuxserver/heimdall
 linuxserver/jellyfin
 filebrowser/filebrowser
 cnk3x/xunlei
