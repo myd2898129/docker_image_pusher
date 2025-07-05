@@ -6,3 +6,4 @@ cnk3x/xunlei
 johngong/baidunetdisk
 portainer/portainer-ce
 onething1/wxedge
+jeessy2/ddnsgo
